@@ -1,4 +1,4 @@
-WELCOME TO PROJECT 44
+WELCOME TO PROJECT ODESolver
 
 MOTIVATION:
 This repository offers users the possibility to solve ODEs with a command line tool.
