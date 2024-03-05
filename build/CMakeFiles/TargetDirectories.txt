@@ -1,3 +1,0 @@
-/home/lucas/CLionProjects/44/build/CMakeFiles/ODEsolver.dir
-/home/lucas/CLionProjects/44/build/CMakeFiles/edit_cache.dir
-/home/lucas/CLionProjects/44/build/CMakeFiles/rebuild_cache.dir
