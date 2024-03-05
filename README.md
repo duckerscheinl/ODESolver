@@ -100,7 +100,7 @@ REMARK: The tree visualizer still struggles with node names bigger than one char
 BUILD:
 Navigate to build directory. Then:
 
-	cmake ../
+	cmake .
 	make
 
 And execute the executable as explained above.
